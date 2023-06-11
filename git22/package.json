@@ -1,0 +1,18 @@
+{
+  "name": "a1bot",
+  "version": "1.0.0",
+  "description": "sms chat bot",
+  "main": "node.js",
+  "scripts": {
+    "test": "npx nodemon",
+    "start": "node node.js"
+  },
+  "author": "Senzo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "socket.io": "^4.6.2",
+    "underscore": "^1.13.6"
+  }
+}
